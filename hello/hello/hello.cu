@@ -1,12 +1,13 @@
 //git hello 0
 //git hello 1
+//shaobiyao
 #include<stdio.h>
 
 //#include<stdlib.h>
 
 //#include<cuda.h>
 
-#include<cuda_runtime.h>//提供了时间计算的功能函数
+#include<cuda_runtime.h>//鎻愪緵浜嗘椂闂磋绠楃殑鍔熻兘鍑芥暟
 
 
 
